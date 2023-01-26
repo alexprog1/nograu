@@ -1,0 +1,11 @@
+.links{
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+/*
+.links:hover{
+  color: black;
+  box-shadow: 0px 0px 0px 8px;
+}
+*/
