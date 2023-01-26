@@ -1,10 +1,8 @@
-# nograu
+# NOGRAU - SISTEMA DE POSTO LAVA JATO DE VEICULOS
 
-# SISTEMA DE POSTO LAVA JATO DE VEICULOS
-
-# React
-# Node JS
-# Material UI
+- React
+- Node JS
+- Material UI
 
 
 ![image](https://user-images.githubusercontent.com/60290669/214932714-eca06964-7540-4fa8-ba96-28a78e2b4191.png)
